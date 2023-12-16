@@ -1,0 +1,7 @@
+npm install ffmpeg @discordjs/opus
+
+{
+  "FFMPEG_PATH": "/usr/bin/ffmpeg"
+}
+
+
